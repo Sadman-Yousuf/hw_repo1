@@ -1,3 +1,2 @@
-# R is far better than excel to generate graph
-# hw_repo1
-# hw_repo2
+#R is significantly more effective than Excel for creating graphs.
+
